@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div>
     <h1>待辦清單</h1>
     <form @submit.prevent="addTask">
       <input v-model="newTaskTitle" placeholder="請輸入待辦事項" required />
@@ -94,7 +94,7 @@ export default {
 </script>
 
 <style>
-body {
+/* body {
   font-family: Arial, sans-serif;
   padding: 2rem;
 }
@@ -204,5 +204,5 @@ li button:hover {
 .edit-textarea {
   resize: vertical;
   min-height: 40px;
-}
+} */
 </style>

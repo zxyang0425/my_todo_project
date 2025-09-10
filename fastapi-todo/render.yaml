@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: fastapi-todo
-    env: python
-    buildCommand: pip install -r requirements.txt
-    startCommand: bash start.sh
-    region: singapore
-    plan: free
