@@ -1,5 +1,4 @@
 #  Python（FastAPI + SQLite） & Java（Spring Boot + MySQL）
-
 ---
 
 ##  專案架構簡介（MVC 概念）
