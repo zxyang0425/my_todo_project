@@ -1,6 +1,4 @@
-#  FastAPI Todo API
-
-使用 **FastAPI** + **SQLModel** + **SQLite** 建立的簡易待辦事項（Todo）RESTful API，支援基本 CRUD 操作，並具備 CORS 設定，方便與前端（Vue）進行串接。
+#  Python（FastAPI + SQLite） & Java（Spring Boot + MySQL）
 
 ---
 
