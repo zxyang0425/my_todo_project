@@ -7,7 +7,7 @@
 
 | 組件         | 負責內容                            |
 |--------------|-------------------------------------|
-| **Model**    | 使用 `SQLModel` / `PA Entity` 定義任務資料結構（`Task` 類別） |
+| **Model**    | 使用 `SQLModel` / `JPA Entity` 定義任務資料結構（`Task` 類別） |
 | **Controller** | FastAPI 路由 / `＠RestController`，處理 REST API 請求並調用 CRUD 邏輯         |
 | **View**     | Vue 前端 |
 
